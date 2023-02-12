@@ -1,0 +1,6 @@
+// +> category = REQUEST
+package gaby.sample.func;
+import "gaby.sample.type.proto";
+// *> Code = 151
+message Call {
+}

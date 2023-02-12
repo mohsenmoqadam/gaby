@@ -1,0 +1,4 @@
+## Name of the node
+-name gaby-stage@gaby-stage-ip
+## Cookie for distributed erlang
+-setcookie gaby-cookie
